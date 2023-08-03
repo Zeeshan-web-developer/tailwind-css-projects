@@ -1,0 +1,23 @@
+{
+  "name": "yyy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xmpp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeeshan-web-developer/tailwind-css-projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeeshan-web-developer/tailwind-css-projects/issues"
+  },
+  "homepage": "https://github.com/Zeeshan-web-developer/tailwind-css-projects#readme",
+  "dependencies": {
+    "node-xmpp-client": "^3.2.0",
+    "xmpp-server": "0.0.3"
+  }
+}
